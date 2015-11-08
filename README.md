@@ -10,3 +10,10 @@ The script creates a folder, backups the current path, pipes the alias to a new 
 It's been working great for me for years, but if you're worried, take a manual backup of your user path or remove the part of the script that modifies the path and do it yourself manually. 
 
 There's no magic, just a regular batch script ^^
+
+####How do i run it?
+Download GiveMeLs.bat and run it. 
+
+Restart CMD.
+
+Rejoice!
